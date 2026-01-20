@@ -1,1 +1,31 @@
-
+Artificial Intelligence & Machine Learning – Fundamentals
+1. Introduction to Artificial Intelligence
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are
+programmed to think and learn. AI systems can perform tasks such as problem-solving, speech
+recognition, decision-making, and pattern recognition.
+2. Types of Artificial Intelligence
+AI can be categorized into Narrow AI, General AI, and Super AI. Narrow AI is task-specific, while
+General and Super AI are theoretical concepts.
+3. Machine Learning Overview
+Machine Learning (ML) is a subset of AI that enables systems to learn from data without explicit
+programming. ML models improve with experience.
+4. Types of Machine Learning
+Supervised Learning uses labeled data, Unsupervised Learning finds patterns in unlabeled data,
+and Reinforcement Learning learns through rewards and penalties.
+5. Natural Language Processing
+NLP focuses on enabling machines to understand, interpret, and generate human language.
+Common tasks include text classification and question answering.
+6. Large Language Models
+LLMs are deep learning models trained on vast text data. They can generate human-like text but
+may hallucinate without grounding.
+7. Vector Embeddings
+Vector embeddings represent text as numerical vectors that capture semantic meaning and enable
+similarity search.
+8. Retrieval-Augmented Generation
+RAG combines retrieval and generation by providing relevant document context to language
+models, reducing hallucinations.
+9. Applications of RAG
+Document question answering, enterprise search, AI chatbots, and knowledge base systems.
+10. Conclusion
+RAG-based systems improve accuracy and reliability by grounding language models in external
+documents
